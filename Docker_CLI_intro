@@ -1,0 +1,29 @@
+Docker cli-intro 
+Docker is a great tool to have under your belt. 
+Try out some of these commands after installing docker to get a feel of it.
+Dont be afaird to test all the commands you like; no need to memorise you will always have access to them.
+First read the material from the link save info & move to the following step.
+clone this repo of a fellow becode intern: https://github.com/yauh-ask/notes/tree/master/docker 
+1.
+Docker — Container Management With Examples
+Exploring how to run and manage containers with different options.
+https://medium.com/bb-tutorials-and-thoughts/docker-container-management-with-examples-c280906158a8
+
+2.
+Useful Docker cli commands
+https://dockerlabs.collabnix.com/docker/cheatsheet/
+
+3.
+20 most usefull docker commands
+Docker Commands With Examples | Docker Tutorial |
+https://www.youtube.com/watch?v=lktzQrHQcYU
+
+4
+Docker security
+https://cheatsheetseries.owasp.org/cheatsheets/Docker_Security_Cheat_Sheet.html
+
+5.
+Create an alpine docker container & echo "hello world"
+
+6.
+Create an docker-compose file to spin up an alpine docker container & echo "hello world"
